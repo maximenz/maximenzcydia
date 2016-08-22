@@ -1,2 +1,2 @@
-# reddestdream.github.io
-ReddestDream's Cydia Repo! ^_^
+https://maximenz.github.io/maximenzcydia/
+
