@@ -1,4 +1,4 @@
-Maximenz's Cydia Repository
+<b>Maximenz's Cydia Repository</b>
 
 https://maximenz.github.io/maximenzcydia/
 
